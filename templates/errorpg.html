@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <title>Weather project</title>
+    <mete name="viewport" content="width=device-width" , initial-scale="1">
+        <style>
+            .center ,p{
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 50%;
+                    }
+        </style>
+    </head>
+    <body>
+        <form action="/" , method="post">
+            <h2><p>Invalid city : {{location}}, please check the spelling</p></h2>
+            <img src="{{url_for('static',filename='img/error.jpeg')}}" width="300" height="300" class="center">
+
+            </form>
+            </body>
+</html>
