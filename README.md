@@ -1,4 +1,4 @@
-# Current-Forecast-Report &nbsp;<img src="https://i.pinimg.com/originals/dd/e5/f4/dde5f4d61ca1f8b611a5014286a1cb71.gif" width="50px;" height="40px;" /> <br>
+# Current-Forecast-Report &nbsp;<img src="https://i.pinimg.com/originals/dd/e5/f4/dde5f4d61ca1f8b611a5014286a1cb71.gif" width="70px;" height="50px;" /> <br>
 Using Python-Flask-Api
 ## To Get the API :
 - step-1: Go To https://openweathermap.org/api
