@@ -8,7 +8,7 @@ Using Python-Flask-Api
 
 ## OUTPUT:
 <p align="left"><img src="https://user-images.githubusercontent.com/122221586/222748637-5bdb4a79-709c-400f-af73-d8e7b1797e1d.png" width="500" height="300"></p>
-# PUT WRONG DATA:
+ PUT WRONG DATA:
 <p align="left"><img src="https://user-images.githubusercontent.com/122221586/222749023-074aacb8-67e3-4ce3-a224-8017e66fe738.jpg" width="400" height="300"></p>
 
 ## Credits :
